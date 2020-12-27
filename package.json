@@ -1,0 +1,16 @@
+{
+  "name": "character-sequencer",
+  "version": "0.1.0",
+  "description": "npm package for generating an in order sequence of characters from a set of input characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "id",
+    "character",
+    "sequencer"
+  ],
+  "author": "Alessandro MacLaine",
+  "license": "MIT"
+}
