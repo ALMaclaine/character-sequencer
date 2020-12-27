@@ -11,6 +11,10 @@
     "character",
     "sequencer"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALMaclaine/character-sequencer.git"
+  },
   "author": "Alessandro MacLaine",
   "license": "MIT"
 }
