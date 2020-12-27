@@ -1,7 +1,4 @@
 class CharacterSequencer {
-    _nextId;
-    _chars;
-
     constructor(chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ') {
         this._chars = chars;
         this._nextId = [0];
